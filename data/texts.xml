@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<texts version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" content="" target="" color="0" fontColor="0" fontSize="0" fontName="" destination="">
-  <text page="28" pagewidth="501" pageheight="700" x="55" y="360" width="350" height="80" 
+<texts version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" content="" target="" color="0" fontColor="white" fontSize="12" fontName="Tahoma Bold" destination="">
+  <text page="28" pagewidth="501" pageheight="750" x="100" y="360" width="300" height="80" 
       content="https://wordwall.net/resource/65567790"
       target="_blank" 
-      fontColor="blue" fontSize="12" fontName="Tahoma" 
+      fontColor="white" fontSize="14" fontName="Tahoma Bold" textAlign="center"
+      hoverColor="blue"
       destination="https://wordwall.net/resource/65567790"/>
 </texts>
