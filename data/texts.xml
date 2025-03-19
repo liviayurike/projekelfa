@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <texts version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" content="" target="" color="0" fontColor="0" fontSize="0" fontName="" destination="">
-  <text page="28" pagewidth="501" pageheight="800" x="59" y="365" width="389" height="53" 
-        content="<a href='https://wordwall.net/resource/65567790' target='_blank'>Klik di sini</a>" 
-        target="_blank" color="0" fontColor="0" fontSize="20" fontName="Tahoma" 
+  <text page="28" pagewidth="501" pageheight="800" x="59" y="365" width="389" height="80" 
+        content="
+        <div style='border: 2px dashed black; padding: 10px; text-align: center; font-size: 20px; font-family: Tahoma; background-color: #FFA500; border-radius: 10px;'>
+          <b>Tekan Link di Bawah Ini!</b><br>
+          <a href='https://wordwall.net/resource/65567790' target='_blank' style='color: blue; text-decoration: none;'>Klik di sini</a>
+        </div>" 
+        target="_blank" 
+        color="0" fontColor="0" fontSize="20" fontName="Tahoma" 
         destination="https://wordwall.net/resource/65567790"/>
 </texts>
