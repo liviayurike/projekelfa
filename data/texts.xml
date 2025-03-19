@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <texts version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" content="" target="" color="0" fontColor="0" fontSize="0" fontName="" destination="">
   <text page="28" pagewidth="501" pageheight="800" x="59" y="365" width="389" height="80" 
-        content="Klik Quiz!" 
-        target="_blank" 
-        color="0" fontColor="0" fontSize="20" fontName="Tahoma" 
-        destination="https://wordwall.net/resource/65567790"/>
+      content="Klik Quiz! (https://wordwall.net/resource/65567790)" 
+      fontSize="20" fontName="Tahoma" 
+      fontColor="blue"/>
+
 </texts>
 
